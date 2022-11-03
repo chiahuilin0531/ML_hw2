@@ -1,0 +1,3 @@
+dataset/theSimpsons-*/
+saved_model/*/*.pth
+*.zip
