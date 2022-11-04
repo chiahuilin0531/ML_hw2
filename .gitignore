@@ -1,3 +1,5 @@
 dataset/theSimpsons-*/
 saved_model/*/*.pth
 *.zip
+filter/
+!filter/*_0.png
